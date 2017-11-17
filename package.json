@@ -1,0 +1,11 @@
+{
+  "name": "learn-yarn",
+  "version": "1.0.0",
+  "description": "mencoba mempelajari yarn",
+  "main": "index.js",
+  "author": "Hamstergeek",
+  "license": "MIT",
+  "dependencies": {
+    "modernizr": "^3.5.0"
+  }
+}
